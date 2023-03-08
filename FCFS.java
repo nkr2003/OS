@@ -69,6 +69,6 @@ System.out.println(pid[i] + "  \t " + at[i] + "\t" + bt[i] + "\t" + ct[i] + "\t"
 }
 sc.close();
 System.out.println("average turnaround time:"+(avgtat/n));
-System.out.println("\naverage waiting time: "+ (avgwt/n));
+System.out.println("average waiting time: "+ (avgwt/n));
 }
 }
